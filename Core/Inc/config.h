@@ -25,12 +25,12 @@
 #define ADC_THROTTLE 1
 #define ADC_TEMP 2
 
-#define LED_Pin GPIO_PIN_1
-#define LED_GPIO_Port GPIOD
-#define UART1_Tx_Pin GPIO_PIN_6
-#define UART1_Tx_GPIO_Port GPIOB
-#define BrakeLight_Pin GPIO_PIN_15
-#define BrakeLight_GPIO_Port GPIOA
-#define Temp_Pin GPIO_PIN_0
-#define Temp_GPIO_Port GPIOA
-#define Throttle_Pin GPIO1
+define LED_Pin GPIO_PIN_1
+define LED_GPIO_Port GPIOD
+define UART1_Tx_Pin GPIO_PIN_6
+define UART1_Tx_GPIO_Port GPIOB
+define BrakeLight_Pin GPIO_PIN_15
+define BrakeLight_GPIO_Port GPIOA
+define Temp_Pin GPIO_PIN_0
+define Temp_GPIO_Port GPIOA
+define Throttle_Pin GPIO1
